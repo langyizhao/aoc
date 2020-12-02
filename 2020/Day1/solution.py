@@ -21,4 +21,5 @@ def part2():
                 prev = nums[j]
                 candidates[2020 - prev - n] = (prev, n)
 
+part1()
 part2()
