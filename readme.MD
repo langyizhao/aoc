@@ -10,3 +10,5 @@ So I'll just try to avoid repeating each last day.
 | --- | -------- |
 | Day 1 | Python |
 | Day 2 | Scala |
+| Day 3 | JavaScript |
+| Day 4 | Java |
